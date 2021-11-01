@@ -17,8 +17,7 @@
 	</div>
 	<br>
 	<section id="tribute-info">
-	<h3>Biografia</h3>
-	<p>Akira iniciou sua carreira em 1978 com a história Wonder Island publicada na Weekly Shonen Jump, depois fez outros mangás: Highlight Island, seguido por Tomato 		Girl Detective.
+	<h3>Biografia</h3>	<p>Akira iniciou sua carreira em 1978 com a história Wonder Island publicada na Weekly Shonen Jump, depois fez outros mangás: Highlight Island, seguido por Tomato 		Girl Detective.
 	</p>
 	br>
 	<p>Ele conquistou sua fama com Dr. Slump, publicada semanalmente na Shonen Jump de 1980 a 1984, gerando 18 volumes encadernados, que veio a ser o primeiro anime baseado em uma obra de Toriyama.
