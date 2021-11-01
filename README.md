@@ -4,20 +4,21 @@
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="/tribute_style.css"/>
 </head>
+
 <body>
 	<main id="main">
 		<h1 id="title">Akira Toriyama</h1>
 			<h2>Autor japonês reconhecido por ser o criador de séries como Dragon Ball e Dr. Slump.</h2>
-	<div id="img-div">
-		<img id="image" src="https://www.kamisama.com.br/wp-content/uploads/2019/05/DvxEaimXgAIPYGC.jpg" alt="Foto de Akira Toryama sorrindo, com os olhos fechados." 			/>
+		<div id="img-div">
+		<img id="image" src="https://www.kamisama.com.br/wp-content/uploads/2019/05/DvxEaimXgAIPYGC.jpg" alt="Foto de Akira Toryama sorrindo, com os olhos 		   fechados."/>
 		<figcaption id="img-caption">
 			Autor mundialmente reconhecido por seus trabalhos, tais como: Dragon Ball e Dr. Slump.
 		</figcaption>
 	</div>
-
+	<br>
 	<section id="tribute-info">
 	<h3>Biografia</h3>
-	<p>Akira iniciou sua carreira em 1978 com a história Wonder Island publicada na Weekly Shonen Jump, depois fez outros mangás: Highlight Island, seguido por Tomato Girl Detective.
+	<p>Akira iniciou sua carreira em 1978 com a história Wonder Island publicada na Weekly Shonen Jump, depois fez outros mangás: Highlight Island, seguido por Tomato 		Girl Detective.
 	</p>
 	br>
 	<p>Ele conquistou sua fama com Dr. Slump, publicada semanalmente na Shonen Jump de 1980 a 1984, gerando 18 volumes encadernados, que veio a ser o primeiro anime baseado em uma obra de Toriyama.
