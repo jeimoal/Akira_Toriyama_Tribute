@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8"/>
-  	<link rel="stylesheet" type="text/css" href="https://github.com/jeimoal/Desenvolvimento-WEB/blob/main/tribute_style.css">
+  	<link rel="stylesheet" type="text/css" href="/tribute_style.css">
 </head>
 
 <main id="main">
