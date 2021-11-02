@@ -1,0 +1,42 @@
+html {
+    font-size: 10px;
+  }
+  
+  body {
+    font-size: 1.6rem;
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  
+  }
+  
+  /*Formatação de texto*/
+  h1, h2 {
+    text-align: center;
+  }
+  
+  h3 {
+    text-align: left;
+  }
+  
+  p {
+    text-align: justify;
+    text-indent: 20px;
+  }
+  
+  /*Formatação de imagens*/
+  
+  img {
+    max-width: 20%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  figcaption {
+    text-align: center;
+    font-size: 0.8em;
+  }
+  
+  .tribute-background{
+    background-image: url(https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3131898:1630796053/Turma-unida-contra-varias-ameacas-a-Terra.jpg?f=16x9&h=720&q=0.8&w=1280&$p$f$h$q$w=64924e1);
+    opacity: 0.1;
+  }
