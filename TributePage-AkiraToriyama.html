@@ -60,7 +60,7 @@
 	<br>
 	<section>
 	<div id="first-page">
-	<i>*Essa é minha primeira página em <u>HTML</u> e <u>CSS</u>, como parte do teste para aquisição do certificado "Responsive Web Design" do site <a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>.</i>
+	<i>*Essa é <a href="https://codepen.io/jeimoal/pen/ExXBPYv" target="_blank">minha primeira página</a> em <u>HTML</u> e <u>CSS</u>, como parte do teste para aquisição do certificado "Responsive Web Design" do site <a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>.</i>
 	</div>
 	</section>
 	</section>
